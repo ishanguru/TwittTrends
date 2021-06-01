@@ -90,7 +90,7 @@ SQLAlchemy==1.0.12
 texttable==0.8.6
 tweepy==3.5.0
 twilio==5.4.0
-urllib3==1.18
+urllib3==1.26.5
 vboxapi==1.0
 virtualenv==15.0.1
 virtualenv-clone==0.2.6
